@@ -7,8 +7,7 @@ A propósta do projeto é realizar uma consulta ao banco de dados disponibilizad
 O que são queryes? São códigos pré-definidos que fazem uma seleção para responder uma solicitação, que gera um dado que pode responder a um questionamento.
 
 <h2><strong> Tema escolhido </strong></h2>
-![got](https://user-images.githubusercontent.com/112557540/212667830-d6700d6b-ae0c-40d4-8536-f1efbca5f11a.png)
-
+igm src"![got](https://user-images.githubusercontent.com/112557540/212668089-9c4d572f-6a02-4548-9ce0-d3e26ef3da5a.png)"
 
 
 
