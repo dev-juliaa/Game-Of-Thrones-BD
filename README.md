@@ -9,6 +9,7 @@ O que são queryes? São códigos pré-definidos que fazem uma seleção para re
 
 
 <h2><strong> 1. Top 10 episódios com mais votos de GOT? </strong></h2>
+
 ![pergunta1](https://user-images.githubusercontent.com/112557569/212431325-3ce9f2d1-44ee-42b9-b45c-4c5de2376bab.png)
 
 
@@ -19,12 +20,13 @@ A duração de um episódio pode variar de acordo com cada série, ou o roteiro 
 
 
 <h2><strong>3. Quais escritores mais aparecem em got? </strong></h2>
+Você pode pensar que o grande sucesso de GOT é de G. R. Martin, mas ficaria surpreso ao saber que outros escritores colaboram para o sucesso da série na roteirização e estruturação. 
 
-----
 ![pergunta3](https://user-images.githubusercontent.com/112557569/212431517-5eca2df1-7992-4355-8f0c-c7ea63b21e5a.png)
 
 <h2><strong>4. Quantos minutos de duração existem em todas as temporadas de Got? </strong></h2>
 Com o advento dos stremings, criou-se um comportamento chamado <strong> binge-watching </strong> que é o ato de maratonar séries de uma vez só. Embora Game Of Thrones tenha sido lançado em episódios semanais, ter os dados de duração da série como todo, nos mostra quanto tempo os expectadores gastaram ao assistir todo conteúdo. A somatória do tempo de toda série equivale a aproxidamente 1 ano. 
+
 ![pergunta4](https://user-images.githubusercontent.com/112557569/212431766-9da98517-fb99-4e1e-9d86-45a0bfda6e22.png)
 
 
@@ -36,10 +38,11 @@ A série é conhecida por suas casas que chamam a atenção do público. Atravé
 
 <h2><strong>6. personagens que mais aparecem em Got? </strong></h2>
 O tempo de tela de um personagem não necessáriamente está atrelado a sua importância, mas saber o número de participações de um determinado personagem pode nos ajudar a saber, por exemplo, quanto ganha em média um ator no papel. Além disso, o número de exposições deixa um ator em evidencia. Aposto que você não imaginava que Tyrion Lannister apareceu mais vezes do que Daenerys Targaryen. 
+
 ![pergunta6](https://user-images.githubusercontent.com/112557569/212432173-570093ff-56a6-42e7-9f15-c8c8c1730fb2.png)
 
 <h2><strong>7. Top 5 atores que apareceram entre 2012 e 2015 em Got? </strong></h2>
 
-Com essa seleção podemos delimitar um periodo de tempo e saber quais foram os personagens que apareceram durante esse periodo de tempo. Surpreendentemente nenhum deles  são os que mais aparecem na série como u m todo. 
+Com essa seleção podemos delimitar um periodo de tempo e saber quais foram os personagens que apareceram durante esse periodo de tempo. Surpreendentemente nenhum deles  são os que mais aparecem na série como um todo. 
 
 ![pergunta7](https://user-images.githubusercontent.com/112557569/212432296-5ac2e613-8026-4dff-a671-8b5453b057ab.png)
