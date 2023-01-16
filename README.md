@@ -28,7 +28,7 @@ Você pode pensar que o grande sucesso de GOT é de G. R. Martin, mas ficaria su
 
 ![pergunta3](https://user-images.githubusercontent.com/112557569/212431517-5eca2df1-7992-4355-8f0c-c7ea63b21e5a.png)
 
-<h2><strong>4. Quantos minutos de duração existem em todas as temporadas de Got? </strong></h2>
+<h2><strong>4. Quantas horas de duração existem em todas as temporadas de Got? </strong></h2>
 Com o advento dos stremings, criou-se um comportamento chamado <strong> binge-watching </strong> que é o ato de maratonar séries de uma vez só. Embora Game Of Thrones tenha sido lançado em episódios semanais, ter os dados de duração da série como todo, nos mostra quanto tempo os expectadores gastaram ao assistir todo conteúdo. A somatória do tempo de toda série equivale a aproxidamente 1 ano. 
 
 ![pergunta4](https://user-images.githubusercontent.com/112557569/212431766-9da98517-fb99-4e1e-9d86-45a0bfda6e22.png)
