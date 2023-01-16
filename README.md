@@ -2,14 +2,29 @@
 
 Projeto em Squad - Para o modulo 4. 
 
+<h2><strong> Tema escolhido </strong></h2>
+
+![game-of-thrones-vendas (1)](https://user-images.githubusercontent.com/112557569/212668961-c571d0f1-5ced-4bfb-bf71-8e531a342889.jpg)
+
 <h2><strong> Desafio</strong></h2>
 A propósta do projeto é realizar uma consulta ao banco de dados disponibilizado, e criar <strong> queryes</strong> que possam responder perguntas pertinentes sobre o banco selecionado. Nesse caso nossa escolha foi sobre a série Game Of Thrones. 
 O que são queryes? São códigos pré-definidos que fazem uma seleção para responder uma solicitação, que gera um dado que pode responder a um questionamento.
 
-<h2><strong> Tema escolhido </strong></h2>
-<img src="https://user-images.githubusercontent.com/112557540/212668455-e5da5832-953c-45e2-8ffd-34be57698f27.png">
+<h2><strong> Ferramentas utilizadas. </strong></h2>
+MySQL
+Canva
+PowerBy
+Kanban
+Discord. 
 
-
+<h2><strong> Etapas para a realização do projeto. </strong></h2>
+Reunião e definição do tema. 
+Pesquisa sobre a série para elaboração das perguntas a serem respondidas. 
+Análise do banco de dados. 
+Criação das queryes para consulta. 
+Relacionamento  das entidades. 
+Criação de tabelas no powerby.
+Elaboração da documentação. 
 
 
 <h2><strong> 1. Top 10 episódios com mais votos de GOT? </strong></h2>
@@ -50,3 +65,10 @@ O tempo de tela de um personagem não necessáriamente está atrelado a sua impo
 Com essa seleção podemos delimitar um periodo de tempo e saber quais foram os personagens que apareceram durante esse periodo de tempo. Surpreendentemente nenhum deles  são os que mais aparecem na série como um todo. 
 
 ![pergunta7](https://user-images.githubusercontent.com/112557569/212432296-5ac2e613-8026-4dff-a671-8b5453b057ab.png)
+
+
+<h2><strong>7. Nossa equipe </strong></h2>
+<div align="center"> 
+
+![Black and Gold Aesthetic Meet Our Team Members Facebook Post](https://user-images.githubusercontent.com/112557569/212668400-c2d3b5b4-c5a4-4cea-afde-6c976c40bcda.png)
+  </div> 
