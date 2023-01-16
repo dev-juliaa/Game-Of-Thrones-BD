@@ -34,7 +34,7 @@ A série é conhecida por suas casas que chamam a atenção do público. Atravé
 
 ![pergunta5](https://user-images.githubusercontent.com/112557569/212431906-1018711b-0ab1-4692-9d39-cdf2030736d1.png)
 
-<h2><strong>6. Personagens que mais aparecem em Got? </strong></h2>
+<h2><strong>6. Atores que mais aparecem em Got? </strong></h2>
 O tempo de tela de um personagem não necessáriamente está atrelado a sua importância, mas saber o número de participações de um determinado personagem pode nos ajudar a saber, por exemplo, quanto ganha em média um ator no papel. Além disso, o número de exposições deixa um ator em evidencia. Aposto que você não imaginava que Tyrion Lannister apareceu mais vezes do que Daenerys Targaryen. 
 ![pergunta6](https://user-images.githubusercontent.com/112557569/212432173-570093ff-56a6-42e7-9f15-c8c8c1730fb2.png)
 
