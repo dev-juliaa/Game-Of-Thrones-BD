@@ -4,7 +4,11 @@ Projeto em Squad - Para o modulo 4.
 
 <h2><strong> Desafio</strong></h2>
 A propósta do projeto é realizar uma consulta ao banco de dados disponibilizado, e criar <strong> queryes</strong> que possam responder perguntas pertinentes sobre o banco selecionado. Nesse caso nossa escolha foi sobre a série Game Of Thrones. 
-O que são queryes? São códigos pré-definidos que fazem uma seleção para responder uma solicitação, que gera um dado que pode responder a um questionamento. 
+O que são queryes? São códigos pré-definidos que fazem uma seleção para responder uma solicitação, que gera um dado que pode responder a um questionamento.
+
+<h2><strong> Tema escolhido </strong></h2>
+![got](https://user-images.githubusercontent.com/112557540/212667830-d6700d6b-ae0c-40d4-8536-f1efbca5f11a.png)
+
 
 
 
