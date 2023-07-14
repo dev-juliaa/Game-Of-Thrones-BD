@@ -70,5 +70,4 @@ Com essa seleção podemos delimitar um periodo de tempo e saber quais foram os 
 <h2><strong>7. Nossa equipe </strong></h2>
 <div align="center"> 
 
-![Black and Gold Aesthetic Meet Our Team Members Facebook Post](https://user-images.githubusercontent.com/112557569/212668400-c2d3b5b4-c5a4-4cea-afde-6c976c40bcda.png)
   </div> 
