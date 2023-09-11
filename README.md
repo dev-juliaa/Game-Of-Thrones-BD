@@ -1,6 +1,6 @@
-# Projeto4grupo
+# Game-Of-Thrones-BD
 
-Projeto em Squad - Para o modulo 4. 
+Projeto em Squad Banco De Dados Utilizando como parametro episodios de Game Of Thrones - Para o modulo 4. 
 
 <h2><strong> Tema escolhido </strong></h2>
 
