@@ -68,6 +68,7 @@ Com essa seleção podemos delimitar um periodo de tempo e saber quais foram os 
 
 
 <h2><strong>7. Nossa equipe </strong></h2>
+<h4>Grazi, Gabriel, Juliane e Júlia</h4>
 <div align="center"> 
 
   </div> 
